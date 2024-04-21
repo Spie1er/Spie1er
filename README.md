@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spie1er, officially - Konstantine Berulava. 
-- 🌱 I’m currently learning React.js, GoLang and other useful tools. 
-- 💞️ I’m looking to collaborate on projects, especially connected to math or made for children to better learn. 
+- 🌱 I’m currently working as a Middle React Front-End Developer and learning React Native. 
+- 💞️ I’m looking to collaborate on interesting projects. 
 - 📫 How to reach me on FB - https://fb.me/konstantine.berulava or by email: berulava@gmail.com 
 
 <!---
